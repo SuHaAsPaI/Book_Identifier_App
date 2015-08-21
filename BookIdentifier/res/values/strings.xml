@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book Identifier</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Developers</string>
+    <string name="ttt">Tap The Tag</string>
+    <string name="bi">Book Identifier</string>
+    <string name="app_dev">App Developed For WC Project</string>
+    <string name="sp">Suhaas Pai</string>
+    <string name="cf">Charlton Fernandes</string>
+
+</resources>
